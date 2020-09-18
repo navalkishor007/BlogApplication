@@ -1,0 +1,43 @@
+.content{
+width:53%;
+float: left;
+padding: 0 0 0 30px;
+
+}
+
+.sidebar{
+width: 40%;
+float: right;
+background-color: rgb(204, 204, 255);
+height: 100%;
+padding: 50px 30px 30px 30px;
+margin-right: 40px;
+}
+.topheading{
+background-color:#cceeff;
+}
+h1{
+text-align:center;
+padding: 10px 0 20px 0;
+}
+body{
+background-color :rgb(230, 242, 255);
+}
+
+#pt{
+text-align: center;
+border-bottom: 1px solid black;
+padding: 0 0 10px 0;
+}
+
+#date{
+
+font-size: 14px;
+font-style:italic;
+}
+
+#pcount{
+font-size:25px;
+color: #660033;
+font-weight: bold;
+}
